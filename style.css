@@ -1,0 +1,9 @@
+#toggle {
+    background-color: red; 
+    color: white;
+}
+
+#toggle.after {
+    background-color: blue; 
+    color: white;
+}
